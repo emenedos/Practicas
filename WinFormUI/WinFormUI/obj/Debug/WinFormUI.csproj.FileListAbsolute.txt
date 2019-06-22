@@ -1,0 +1,10 @@
+c:\users\mauro\source\repos\WinFormUI\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+c:\users\mauro\source\repos\WinFormUI\WinFormUI\obj\Debug\WinFormUI.PeopleForm.resources
+c:\users\mauro\source\repos\WinFormUI\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+c:\users\mauro\source\repos\WinFormUI\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+c:\users\mauro\source\repos\WinFormUI\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+c:\users\mauro\source\repos\WinFormUI\WinFormUI\bin\Debug\WinFormUI.exe.config
+c:\users\mauro\source\repos\WinFormUI\WinFormUI\bin\Debug\WinFormUI.exe
+c:\users\mauro\source\repos\WinFormUI\WinFormUI\bin\Debug\WinFormUI.pdb
+c:\users\mauro\source\repos\WinFormUI\WinFormUI\obj\Debug\WinFormUI.exe
+c:\users\mauro\source\repos\WinFormUI\WinFormUI\obj\Debug\WinFormUI.pdb
